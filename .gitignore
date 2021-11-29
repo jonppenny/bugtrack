@@ -13,3 +13,12 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+*.idea
+/node_modules
+.env
+/config.yaml
+/build
+*.swp
+
+/internal/files
