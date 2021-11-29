@@ -1,0 +1,5 @@
+username: ""
+password: ""
+host: "tcp(host:port)"
+database: ""
+secret: ""
